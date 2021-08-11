@@ -1,0 +1,2 @@
+This project is a convolutional neural network trained on the EMNIST ByClass dataset.
+The EMNIST dataset is a collection of handwritten characters and digits.
